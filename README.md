@@ -28,5 +28,5 @@ longitude'
 
 # Getting Started
 
-To run this model localy on your machine first download the uber dataset present in repo.
-Download the code file you can run it directly in google colab.
+To run this model locally on your machine first download the uber dataset zip file present in repo.
+Download the code file & you can run it directly in google colab.
